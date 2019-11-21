@@ -29,3 +29,6 @@
 - [Angel Effect](https://angeleffect.co/)
 - [StartupIstanbul](https://www.startupistanbul.com/)
 - [BIC Angels](http://bicangels.com/)
+- [Startup Grind](https://www.startupgrind.com/)
+- [Hackquarters](https://hackquarters.co/)
+- [Etohum](https://www.etohum.com/en/)
