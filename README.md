@@ -32,3 +32,5 @@
 - [Startup Grind](https://www.startupgrind.com/istanbul/)
 - [Hackquarters](https://hackquarters.co/)
 - [Etohum](https://www.etohum.com/en/)
+- [QNBEYOND](https://www.qnbeyond.com/)
+- [SDG Impact Accelerator](https://www.sdgia.org/)
