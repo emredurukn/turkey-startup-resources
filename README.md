@@ -34,3 +34,6 @@
 - [Etohum](https://www.etohum.com/en/)
 - [QNBEYOND](https://www.qnbeyond.com/)
 - [SDG Impact Accelerator](https://www.sdgia.org/)
+- [Entrecom](https://www.entrecom.io/home)
+- [Albaraka Garaj](https://www.albarakagaraj.com/)
+- [ING İnovasyon Merkezi](https://www.meetup.com/tr-TR/ING-%C4%B0novasyon-Merkezi/)
