@@ -38,3 +38,6 @@
 - [Albaraka Garaj](https://www.albarakagaraj.com/)
 - [ING İnovasyon Merkezi](https://www.meetup.com/tr-TR/ING-%C4%B0novasyon-Merkezi/)
 - [StartupTurkey](https://startupturkey.com/)
+- [Maya Girişim Merkezi](http://mayagirisim.com/)
+- [Lonca Girişim](https://www.loncagirisim.com/)
+- [TechXtile](https://techxtile.net/)
