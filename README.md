@@ -41,3 +41,6 @@
 - [Maya Girişim Merkezi](http://mayagirisim.com/)
 - [Lonca Girişim](https://www.loncagirisim.com/)
 - [TechXtile](https://techxtile.net/)
+- [TechOne Venture Capital](https://www.techone.vc/)
+- [Vodafone Vitrin](https://vitrin.vodafone.com.tr/)
+- [Innovate21st](https://www.innovate21st.com/)
