@@ -44,3 +44,5 @@
 - [TechOne Venture Capital](https://www.techone.vc/)
 - [Vodafone Vitrin](https://vitrin.vodafone.com.tr/)
 - [Innovate21st](https://www.innovate21st.com/)
+- [Inovent](http://inovent.com.tr/)
+- [We Play Ventures](https://www.weplayventures.com/)
