@@ -46,3 +46,5 @@
 - [Innovate21st](https://www.innovate21st.com/)
 - [Inovent](http://inovent.com.tr/)
 - [We Play Ventures](https://www.weplayventures.com/)
+- [AI JET BIGG](https://aijetbigg.havelsan.com.tr/)
+- [212](https://212.vc/)
