@@ -48,3 +48,4 @@
 - [We Play Ventures](https://www.weplayventures.com/)
 - [AI JET BIGG](https://aijetbigg.havelsan.com.tr/)
 - [212](https://212.vc/)
+- [helo!](https://helo.land/venture-builder/)
